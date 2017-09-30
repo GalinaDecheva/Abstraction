@@ -17,11 +17,6 @@ public class EncryptSortAndPrintArray {
         Arrays.sort(encryptArray);
         print(encryptArray);
 
-//System.out.println(Arrays.toString(names));
-
-//        System.out.println((int)'e');
-//        System.out.println(((int)'e')*4);
-
     }
 
     public static int[] encryptNames(String names[]) {
